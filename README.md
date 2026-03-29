@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Thanujaa Venkadakrishnasharma</h1>
-<h3 align="left">A passionate software quality assurance engineer and software developer from Sri Lanka.</h3>
+<h3 align="left">A passionate software engineer and quality assurance engineer from Sri Lanka.</h3>
 <hr>
 <p></p>Welcome to my GitHub profile. I am a final year undergraduate following a Bachelor of Science in Computer Science and Technology at Uva Wellassa University of Sri Lanka.  I am a software quality engineer and Full-Stack Web Developer. I have keen problem-solving skills and good communication skills. Moreover, I have a huge passion for software quality assurance and front-end development.</p> I have experience in API testing, UI testing, Unit testing, Integration testing, Performance testing, and other testing types. I have experience in Postman, JMeter, GitHub, Visual Studio Code, Jira, and some basic experience in Selenium. I have some experience in MERN, and I can learn new technology and start working on it. I am seeking a software quality assurance intern or a software development intern.
 
